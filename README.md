@@ -28,4 +28,4 @@ The codes are organized into different folders following the basic structure sho
 
 • ...
 
-For the "one_bin_one_spk" and "one_bin_two_cont_circadian" folders, that there's no "sim" folder.
+For the "one_bin_one_spk" and "one_bin_two_cont_circadian" folders, please note that there is no "sim" folder.
